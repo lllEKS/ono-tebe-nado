@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr); 
     align-items: center;
-    padding: 92px 51px 89px;          
+    padding: 92px 51px 89px;
 }
 
 .header__links-list {
@@ -295,7 +295,7 @@
     font-weight: bold;
     line-height: 1;
     font-size: 40px;
-    text-transform: uppercase; 
+    text-transform: uppercase;
 }
 
 .about__text {
