@@ -15,7 +15,7 @@
 }
 
 .header__links-list-item_no-bullit {
-  list-style: none;
+  list-style: decimal;
 }
 
 .header__link {
